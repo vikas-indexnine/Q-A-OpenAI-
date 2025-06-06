@@ -440,11 +440,6 @@ def main():
                 st.caption(f"Time: {chat['timestamp']}")
     else:
         st.info("👈 Please upload some documents in the sidebar to get started!")
-
-
-
-
         
-
 if __name__ == "__main__":
     main()
